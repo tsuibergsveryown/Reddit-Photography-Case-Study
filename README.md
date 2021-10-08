@@ -1,4 +1,4 @@
-Executive Summary
+#Executive Summary
 
 Objective:
 By using machines learning models (specifically Natural Language Processing), I’d like to separate the differences between Fashion & Wedding photography in order to continue to grow my Instagram, website, and youtube channel exposure despite the new algorithm change.
