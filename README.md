@@ -31,13 +31,6 @@ more about both industries. I need to know what photographers and clients' quest
 
 In addition, as Instagram announced last week that "we are no longer a photo sharing app." It makes Reddit that much of a great online platform to learn more about both of the photography industry.
 
-- mention domain knowledge
-  - all 3 fashion photography, wedding photography, and cinemotagraphy use the same words
-  - such as shared camera gears, shared vocabularies such as f stops, shutter speed, and background, client, how to charge, and etc..
-  - you wouldn't think they are that easy to tell each post apart
-- mention baseline score
-- mention all 4 models and its success (CountVectorizer, TfidVectorizer, and random forest) and downfalls (knn)
-
 
 ### | The Opener |
 It's an interesting landscape that photographers are navigating these days when our works are being consumed across so many different places. Some of you might be well aware that Instagram announced earlier this year that "we are no longer a photo sharing app."
